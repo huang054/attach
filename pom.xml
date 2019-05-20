@@ -31,6 +31,13 @@
       <artifactId>javassist</artifactId>
       <version>3.18.2-GA</version>
     </dependency>
+      <!-- https://mvnrepository.com/artifact/org.ow2.asm/asm -->
+      <dependency>
+          <groupId>org.ow2.asm</groupId>
+          <artifactId>asm</artifactId>
+          <version>7.1</version>
+      </dependency>
+
       <dependency>
           <groupId>com.sun</groupId>
           <artifactId>tools</artifactId>
